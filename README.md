@@ -1,4 +1,4 @@
-# data-science-tech-resume-template
-I was just trying to make a resume... I ended up with a LaTeX template too, might as well share
+# entry-data-science-tech-resume-template
+[TimmyChan](https://github.com/TimmyChan) was just trying to make a resume... ended up with a LaTeX template and [shared it](https://github.com/TimmyChan/data-science-tech-resume-template).
 
-Hosted on Overleaf as official template: https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmpfxrzjhv
+I needed an entry data science resume, so I added a few subsections, and thought to share it also.
